@@ -31,6 +31,8 @@
 
 ![](https://raw.githubusercontent.com/rangav/thunder-client-support/master/images/thunder-client-v2.png)
 
+22. [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) 拼写检查器，防止出现*lable*这样的单词拼写错误
+
 **Enjoy!**
 
 ![](https://i2.hdslb.com/bfs/archive/a07b547896f9f1719f05a4aa3db5e57df7d71b16.png)

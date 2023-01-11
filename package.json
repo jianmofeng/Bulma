@@ -11,6 +11,10 @@
   "categories": [
     "Extension Packs"
   ],
+  "repository": {
+    "url": "https://github.com/jianmofeng/Bulma",
+    "directory": "(๑•̀ㅂ•́)و✧"
+  },
   "extensionPack": [
     "jianmofeng.bc-snippet-code",
     "akamud.vscode-javascript-snippet-pack", 
@@ -31,6 +35,7 @@
     "stylelint.vscode-stylelint", 
     "syler.sass-indented", 
     "Vue.volar", 
-    "wayou.vscode-todo-highlight"
+    "wayou.vscode-todo-highlight",
+    "streetsidesoftware.code-spell-checker"
   ]
 }
