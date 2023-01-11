@@ -1,0 +1,38 @@
+{
+  "name": "Bulma",
+  "displayName": "Bulma",
+  "description": "admin中用到的插件合集，避免因为格式化等问题导致冲突，简直新同事福音",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "jianmofeng.bc-snippet-code",
+    "akamud.vscode-javascript-snippet-pack", 
+    "alefragnani.project-manager", 
+    "ChakrounAnas.turbo-console-log", 
+    "christian-kohler.path-intellisense", 
+    "dbaeumer.vscode-eslint", 
+    "eamodio.gitlens", 
+    "esbenp.prettier-vscode", 
+    "jasonnutter.search-node-modules", 
+    "KnisterPeter.vscode-commitizen",  
+    "lokalise.i18n-ally", 
+    "mikestead.dotenv", 
+    "mrmlnc.vscode-less", 
+    "MS-CEINTL.vscode-language-pack-zh-hans", 
+    "octref.vetur", 
+    "oouo-diogo-perdigao.docthis", 
+    "rangav.vscode-thunder-client", 
+    "ritwickdey.LiveServer", 
+    "sibiraj-s.vscode-scss-formatter", 
+    "stylelint.vscode-stylelint", 
+    "syler.sass-indented", 
+    "uni-helper.uni-app-schemas-vscode", 
+    "Vue.volar", 
+    "wayou.vscode-todo-highlight"
+  ]
+}
