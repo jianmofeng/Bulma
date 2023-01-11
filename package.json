@@ -17,6 +17,7 @@
   },
   "extensionPack": [
     "jianmofeng.bc-snippet-code",
+    "EditorConfig.EditorConfig",
     "akamud.vscode-javascript-snippet-pack", 
     "alefragnani.project-manager", 
     "ChakrounAnas.turbo-console-log", 
@@ -24,7 +25,6 @@
     "dbaeumer.vscode-eslint", 
     "eamodio.gitlens", 
     "esbenp.prettier-vscode", 
-    "jasonnutter.search-node-modules", 
     "KnisterPeter.vscode-commitizen",  
     "mikestead.dotenv", 
     "mrmlnc.vscode-less", 
