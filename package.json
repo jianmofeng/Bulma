@@ -1,9 +1,10 @@
 {
-  "name": "Bulma",
-  "displayName": "Bulma",
+  "name": "BocchiTheRock",
+  "displayName": "BocchiTheRock",
   "description": "项目中用到的插件合集，避免因为格式化等问题导致冲突，简直新同事福音",
-  "version": "0.0.1",
-  "icon": "images/icon.jepg",
+  "version": "0.0.2",
+  "publisher": "jianmofeng",
+  "icon": "images/icon.jpeg",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -21,18 +22,14 @@
     "esbenp.prettier-vscode", 
     "jasonnutter.search-node-modules", 
     "KnisterPeter.vscode-commitizen",  
-    "lokalise.i18n-ally", 
     "mikestead.dotenv", 
     "mrmlnc.vscode-less", 
-    "MS-CEINTL.vscode-language-pack-zh-hans", 
-    "octref.vetur", 
     "oouo-diogo-perdigao.docthis", 
     "rangav.vscode-thunder-client", 
     "ritwickdey.LiveServer", 
     "sibiraj-s.vscode-scss-formatter", 
     "stylelint.vscode-stylelint", 
     "syler.sass-indented", 
-    "uni-helper.uni-app-schemas-vscode", 
     "Vue.volar", 
     "wayou.vscode-todo-highlight"
   ]
