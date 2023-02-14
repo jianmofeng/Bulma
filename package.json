@@ -1,6 +1,6 @@
 {
   "name": "BocchiTheRock",
-  "displayName": "BocchiTheRock",
+  "displayName": "Bocchi The Rock",
   "description": "项目中用到的插件合集，避免因为格式化等问题导致冲突，简直新同事福音",
   "version": "0.0.2",
   "publisher": "jianmofeng",
@@ -28,14 +28,14 @@
     "KnisterPeter.vscode-commitizen",  
     "mikestead.dotenv", 
     "mrmlnc.vscode-less", 
-    "oouo-diogo-perdigao.docthis", 
+    "OBKoro1.korofileheader", 
     "rangav.vscode-thunder-client", 
-    "ritwickdey.LiveServer", 
     "sibiraj-s.vscode-scss-formatter", 
     "stylelint.vscode-stylelint", 
     "syler.sass-indented", 
     "Vue.volar", 
     "wayou.vscode-todo-highlight",
-    "streetsidesoftware.code-spell-checker"
+    "streetsidesoftware.code-spell-checker",
+    "dsznajder.es7-react-js-snippets"
   ]
 }
