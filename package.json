@@ -2,7 +2,7 @@
   "name": "BocchiTheRock",
   "displayName": "Bocchi The Rock",
   "description": "项目中用到的插件合集，避免因为格式化等问题导致冲突，简直新同事福音",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "jianmofeng",
   "icon": "images/icon.jpeg",
   "engines": {
