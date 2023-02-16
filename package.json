@@ -2,7 +2,7 @@
   "name": "BocchiTheRock",
   "displayName": "Bocchi The Rock",
   "description": "项目中用到的插件合集，避免因为格式化等问题导致冲突，简直新同事福音",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "jianmofeng",
   "icon": "images/icon.jpeg",
   "engines": {
@@ -18,9 +18,7 @@
   "extensionPack": [
     "jianmofeng.bc-snippet-code",
     "EditorConfig.EditorConfig",
-    "akamud.vscode-javascript-snippet-pack", 
     "alefragnani.project-manager", 
-    "ChakrounAnas.turbo-console-log", 
     "christian-kohler.path-intellisense", 
     "dbaeumer.vscode-eslint", 
     "eamodio.gitlens", 
